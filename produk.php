@@ -9,7 +9,7 @@ class produk{
          $penulis = "penulis",
          $penerbit = "penerbit",
          $harga = "0";
-         
+
   // ini method
   public function getLabel() {
     // $this artinya agar variabel yang di tuju adalah variabael yang ada di property
